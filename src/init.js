@@ -1,0 +1,1 @@
+//Initially ran script with need global vars
